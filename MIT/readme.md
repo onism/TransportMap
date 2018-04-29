@@ -1,0 +1,1 @@
+To understand the transport maps, I am plant to rewrite the transport map code according to http://transportmaps.mit.edu/docs
